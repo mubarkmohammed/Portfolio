@@ -12,18 +12,19 @@ nav{
     background-color: #151f35 ;
     
 }
-ul{
+nav ul{
     display: flex;
     padding:12px 20px;
     justify-content: space-between;
 }
-li{ 
+nav ul li{ 
     list-style: none;
 
 }
 nav ul li a {
     color: white;
     cursor: pointer;
+    text-decoration: none;
 }
 
 
