@@ -91,3 +91,8 @@ nav ul li a {
     margin: 0 auto;
     text-align: center;
     padding: 40px 0;
+
+.project-section[
+    padding: bottom 100px;
+    margin: bottom 100px;
+]
