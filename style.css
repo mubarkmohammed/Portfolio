@@ -47,6 +47,7 @@ nav ul li a {
     min-height: 100vh;
     padding-top: 100px; 
     margin-top: 50px;   
+
     
     
 }
@@ -84,15 +85,18 @@ nav ul li a {
     justify-content: center;  
     gap: 40px;                
     margin-top: 20px;
-
+}
     
  .about-container {
     width: 80%;
     margin: 0 auto;
     text-align: center;
     padding: 40px 0;
+ }
+.projects-section{
+    min-height: 80vh;
+    text-align: center;
+    border: 1px solid red;
+    
 
-.project-section[
-    padding: bottom 100px;
-    margin: bottom 100px;
-]
+}
