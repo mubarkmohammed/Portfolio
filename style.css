@@ -28,7 +28,9 @@ nav ul li a {
     cursor: pointer;
     text-decoration: none;
 }
-
+ul li a:hover{
+    color: #3d71d9;
+}
 .hero-section{
     height: 100vh; 
     display: flex;
