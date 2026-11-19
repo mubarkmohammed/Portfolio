@@ -38,7 +38,7 @@ ul li a:hover{
     padding-top: 50px;
     height: 80vh; 
     position: relative;
-      background-image: url('/heroBcg.jpg');
+      background-image: url('heroBcg.jpg');
       background-position:center;
       background-size: cover;
       background-repeat: no-repeat;
